@@ -135,7 +135,7 @@ Fork the Repository: Click the "Fork" button at the top right of this page.
 Clone the Repository: Clone your fork to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/Real-Time-Object-Detection-Model.git
+git clone https://github.com/aminehz/Real-Time-Object-Detection-Model.git
 
 ```
 
